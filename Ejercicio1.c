@@ -1,5 +1,5 @@
 *******************************************************************************/
-/Eduardo Granados
+//Eduardo Granados
 //Ejercicio 1
 //PROGRAMA SI a>b
 
