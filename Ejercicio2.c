@@ -1,4 +1,4 @@
-/Eduardo Granados
+//Eduardo Granados
 //Ejercicio 2
 //PROGRAMA SI a>b
 
